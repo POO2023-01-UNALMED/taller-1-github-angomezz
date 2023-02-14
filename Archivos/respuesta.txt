@@ -1,1 +1,1 @@
-La plataforma no me permitia subir el cambio realizado, pues aunque habìa creado una carpeta nueva, esta no tenìa datos en su interior
+La plataforma no me permitia subir el cambio realizado, pues aunque habìa creado una carpeta nueva, estos cambios no se subieron a GitHub
