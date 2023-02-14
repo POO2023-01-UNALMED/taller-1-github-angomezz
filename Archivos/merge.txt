@@ -1,1 +1,0 @@
-Preguntandole a los monitores de clase, me di cuenta que el archivo no podia ser subido en un inicio pues, aunque habia creado la carpeta, esta no contrenia ningun archivo.
